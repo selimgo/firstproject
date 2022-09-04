@@ -1,0 +1,9 @@
+#IDE Code
+/vs
+
+#IMG
+*.jpg
+img/
+
+#Videos
+*.mp4
